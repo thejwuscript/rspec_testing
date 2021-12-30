@@ -1,0 +1,2 @@
+language = "ruby"
+run = "rspec spec/01_spec.rb"
